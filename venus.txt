@@ -1,4 +1,8 @@
 Ola!
 Venus is hotter than earth
+<<<<<<< HEAD
 Venus is around the same size as Earth
 Elon Musk should plan to go Venus instead of Mars. 
+=======
+Hot hot hot.. Abort!
+>>>>>>> 73331f65683ac8598e0774353b5a95a2e6378c6b
